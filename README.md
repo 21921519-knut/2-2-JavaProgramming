@@ -1,1 +1,1 @@
-# 2-2-JavaProgramming
+# 한국교통대학교 2018년도 2학기 Java프로그래밍 강의
